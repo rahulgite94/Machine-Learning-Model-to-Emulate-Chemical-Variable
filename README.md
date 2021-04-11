@@ -1,0 +1,2 @@
+# Machine-Learning-Model-to-Emulate-Chemical-Variable
+ I propose to develop the Neural Architecture Search (NAS) Machine Learning (ML) Model to emulate Chemical Variables using the Weather Research Forecasting (WRF) Chem model’s output. WRF-Chem is the Weather Research and Forecasting (WRF) model coupled with Chemistry.  The problem with running the WRF-Chem model is that it requires high time computational and cost. 
